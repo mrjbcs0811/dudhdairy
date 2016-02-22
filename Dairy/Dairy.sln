@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dairy", "Dairy.csproj", "{FCFB600E-BE69-4CFD-86F4-E80A1447BE3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHelper", "..\DBHelper\DBHelper.csproj", "{D17030B4-7D8B-4AB2-BBE0-8B3A270291C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFB600E-BE69-4CFD-86F4-E80A1447BE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFB600E-BE69-4CFD-86F4-E80A1447BE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFB600E-BE69-4CFD-86F4-E80A1447BE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFB600E-BE69-4CFD-86F4-E80A1447BE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17030B4-7D8B-4AB2-BBE0-8B3A270291C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17030B4-7D8B-4AB2-BBE0-8B3A270291C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17030B4-7D8B-4AB2-BBE0-8B3A270291C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17030B4-7D8B-4AB2-BBE0-8B3A270291C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
